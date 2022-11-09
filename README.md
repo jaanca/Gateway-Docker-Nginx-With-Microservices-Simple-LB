@@ -8,7 +8,7 @@
 - Each script for create container, show de logs for troubleshotting in case exist error in code or nginx server
 - Each container, have a tools for testing ping/dig or browse web (curl) in case need that, this tools can erase in production deploy
 
-# Descripción de los archivos
+# Description of the files
     .
     |-- docs/                                        # Documentations
     |   |-- photos/                                  # Screenshots for running system
