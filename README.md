@@ -81,7 +81,7 @@ PS C:\..> .\docker-40-build-run-ms_gateway.ps1
 # Try on Linux
 ```console
 # Quit characters not linux, like \r 
-dos2unix *.sh
+dos2unix *.*
 chmod u+x *.sh
 # Create network
 ./docker-01-create-network-for-dns-shared.sh

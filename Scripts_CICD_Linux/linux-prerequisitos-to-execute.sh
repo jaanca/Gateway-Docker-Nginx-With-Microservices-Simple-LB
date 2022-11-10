@@ -1,5 +1,5 @@
 # Quit characters not linux, like \r 
-dos2unix *.sh
+dos2unix *.*
 chmod u+x *.sh
 # Create network
 ./docker-01-create-network-for-dns-shared.sh
